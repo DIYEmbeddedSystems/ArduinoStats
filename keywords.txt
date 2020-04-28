@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Logger libray
+#######################################
+# Class
+#######################################
+
+Stats      KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+push            KEYWORD2
+getSampleCount  KEYWORD2
+getMin          KEYWORD2
+getMax          KEYWORD2
+getAverage      KEYWORD2
+getVariance     KEYWORD2
+getStdDev       KEYWORD2
+getCount        KEYWORD2
+print           KEYWORD2
+histogram       KEYWORD2
+
+
+#######################################
+# Constants
+#######################################
+
+
